@@ -203,8 +203,5 @@ git clone https://github.com/Mateus-Auza/student-placement-prediction-svm.git
 **Mateus Auza Cruz**
 
 Completed: May 2026
+
 ---
-
-## License
-
-This project is distributed under the terms specified in the `LICENSE` file.
