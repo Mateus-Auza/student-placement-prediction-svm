@@ -12,7 +12,7 @@ library(patchwork)
 # -------------------------
 # Load and clean data
 # -------------------------
-stud <- read.csv("student_placement_prediction_dataset_2026.csv")
+stud <- read.csv("data/student_placement_prediction_dataset_2026.csv")
 
 stud$student_id <- NULL
 stud$salary_package_lpa <- NULL
